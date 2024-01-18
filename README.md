@@ -21,7 +21,7 @@ This repository documents my work on a customer churn analysis simulation conduc
 
 - `Data_cleaning_and_EDA.ipynb`: Jupyter Notebook containing the Python code for data analysis.
 - `FeatureEng_and_Modelling.ipynb`: Jupyter Notebook showcasing the feature engineering and building the Random Forest model.
-- `insights_report.pdf`: Document summarizing the actionable insights generated from the analysis.
+- `key findings.docx`: Document summarizing the actionable insights generated from the analysis.
 - `client_data.csv`, `price_data.csv`:: Historical dataset used for analysis.
 - `clean_data_after_eda.csv`: Clean data after EDA.
 - `data_with_predictions`: Dataset with churn predictions.
